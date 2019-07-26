@@ -11,7 +11,7 @@ namespace SampleCheckupProblem
         static void Main(string[] args)
         {
             Console.WriteLine("Hello ProgrammingCheckup!");
-            Console.WriteLine("Jake dotes");
+            Console.WriteLine("Jake dotes is the best");
             Console.ReadKey();
         }
     }
